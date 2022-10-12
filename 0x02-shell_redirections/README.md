@@ -1,1 +1,1 @@
-scripts writes a confused emoji
+scripts displays a confused emoji
